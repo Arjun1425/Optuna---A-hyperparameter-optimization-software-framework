@@ -33,7 +33,7 @@ The project uses the Indian Diabetes Dataset 🏥 to predict whether a patient i
 🚀 How to Run the Code?
 
 1️⃣ Clone this repository:
-git clone https://github.com/yourusername/optuna-hyperparameter-tuning.git
+git clone https://github.com/Arjun1425/Optuna---A-hyperparameter-optimization-software-framework.git
 
 2️⃣ Navigate to the directory:
 cd optuna-hyperparameter-tuning
