@@ -1,5 +1,7 @@
 # Optuna---A-hyperparameter-optimization-software-framework
 
+![Image](https://github.com/user-attachments/assets/6385a1f0-eb8a-4c19-83b5-48307a8ed330)
+
 # 🚀 Hyperparameter Optimization with Optuna  
 
 Welcome to this repository! 🎯 This project explores **Optuna**, an advanced hyperparameter optimization framework, and demonstrates how it can outperform traditional techniques like **GridSearchCV** and **RandomSearchCV**.  
